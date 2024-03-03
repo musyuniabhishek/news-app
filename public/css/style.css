@@ -1,0 +1,32 @@
+.background {
+    background-color: rgb(81, 175, 238);
+    color: white;
+}
+
+.card-title {
+    height: 100px;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.card-text {
+    height: 216px;
+}
+
+.btn:hover {
+    background-color: rgb(3, 92, 151);
+    color: white;
+}
+
+.description{
+    display: -webkit-box;
+    -webkit-line-clamp: 9;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+
+.card img{
+    object-fit: contain;
+}
